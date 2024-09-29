@@ -3,7 +3,7 @@
 <br>沒錯，我跟日本人一起考研，最後只有上其中一間，不太推薦這麼做，乖乖走外國人管道應該會比較容易申請上，<span style="color: red;">**使用此方法前請詳閱公開說明書，三思而後行，推薦考試怪獸、或在日本讀大學的人服用。**</span>以下先簡單介紹自己情況，再介紹各資料夾的內容。
 
 - 畢業科系：國立臺灣大學機械工程學系 (畢業 GPA: 3.80/4.30)
-- 報考科系：
+- 目標科系：
     - 東京大学 &nbsp;知能機械情報学 <span style="color: red;">(不合格)</span>
     - 京都大学 &nbsp;システム科学コース (System Science) <span style="color: red;">(不合格)</span>
     - 東北大学 &nbsp;機械系四専攻 (Mechanical Engineering) <span style="color: green;">(合格)</span>
